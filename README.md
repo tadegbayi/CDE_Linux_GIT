@@ -39,6 +39,6 @@ fi
 
 echo "ETL process completed successfully."
 
-# Comment: Schedule the script using crontab
-# crontab -e to open the cron tab and then type the line below for 12:00AM daily
-# 0 0 * * * ~/Desktop/CDE/CDE_Linux_Git_Assignment/scripts.sh
+####Comment: Schedule the script using crontab
+#### crontab -e to open the cron tab and then type the line below for 12:00AM daily
+#### 0 0 * * * ~/Desktop/CDE/CDE_Linux_Git_Assignment/scripts.sh
